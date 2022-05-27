@@ -1,15 +1,20 @@
 # Hello there
 
-Welcome to my Github profile!. Here you can find some cool projects from simple pinging to network mapping and cracking.<br>
+Hello there! My name is Fluffy and I'm a Cyber Security Analyst, Network Administator, random programmer and more. You can find me on [Twitter](https://twitter.com/FluffySnowmanYT).
 
-I am a Network Admin, Cyber Security Analyst, Full Stack Developer and much more. <br>
+## Skills 
 
-Most of my projects are documented so no need to hesitate when working with new code :) <br>
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-Feel free to check out [my website](https://fluffysnowman.github.io) to learn more about- well anything and everything; and my latest project called [fastmap](https://github.com/FluffySnowman/fastmap) which has all the tools a network admins needs!
-<br>
+# Github Stats
 
-Have a great day :)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffySnowman)](https://github.com/anuraghazra/github-readme-stats)
+
+https://img.shields.io/github/commit-activity/w/FluffySnowman/fastmap?style=plastic
 
 <hr>
 
