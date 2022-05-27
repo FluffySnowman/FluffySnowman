@@ -4,7 +4,13 @@ Hello there! My name is Fluffy and I'm a Cyber Security Analyst, Network Adminis
 
 ## Skills 
 
-
+- Shell Scripting
+- HTML/CSS/JS
+- Python3
+- Java
+- Jekyll
+- NodeJS
+- 
 
 # Github Stats
 
