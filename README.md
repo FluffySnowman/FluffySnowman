@@ -1,10 +1,10 @@
 # Hello there
 
-Hello there! My name is Fluffy and I'm a Cyber Security Analyst, Network Administator, random programmer and more. You can find me on [Twitter](https://twitter.com/FluffySnowmanYT).
+Hello there! My name is Fluffy and I'm a Cyber Security Analyst, Network Administator and random programmer. You can find me on [Twitter](https://twitter.com/FluffySnowmanYT).
 
 # Skills, Technologies and Tools
 
-Parrot OS/Kali Linux, Arch Linux, Debian, Network Management, White hat Hacking, 
+Parrot OS/Kali Linux, Arch Linux, and Debian based user, Network Management, White hat Hacking, Python3, Bash Scripting (.sh), Nodejs Bots, HTML+CSS+JS, GIT, SQL, Java, Assembly, Cryptography, Cyber Security, Network Administration, Electron, JQeury and more
 
 # Github Stats
 
