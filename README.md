@@ -2,15 +2,9 @@
 
 Hello there! My name is Fluffy and I'm a Cyber Security Analyst, Network Administator, random programmer and more. You can find me on [Twitter](https://twitter.com/FluffySnowmanYT).
 
-## Skills 
+# Skills, Technologies and Tools
 
-- Shell Scripting
-- HTML/CSS/JS
-- Python3
-- Java
-- Jekyll
-- NodeJS
-- 
+Parrot OS/Kali Linux, Arch Linux, Debian, Network Management, White hat Hacking, 
 
 # Github Stats
 
