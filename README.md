@@ -4,7 +4,7 @@ Hello there! My name is Fluffy and I'm a Cyber Security Analyst, Network Adminis
 
 ## Skills, Technologies and Tools
 
-Parrot OS/Kali Linux, Arch Linux, and Debian based user, Network Management, White hat Hacking, Python3, Bash Scripting (.sh), Nodejs Bots, HTML+CSS+JS, GIT, SQL, Java, Assembly, Cryptography, Cyber Security, Network Administration, Electron, JQeury and more.
+Parrot OS/Kali Linux, Arch Linux, and Debian based user, Network Management, White hat Hacking, Python3, Bash Scripting (.sh), Nodejs Bots, HTML+CSS+JS, GIT, SQL, Java, Assembly, Cryptography, Cyber Security, Network Administration and more.
 
 ## Blogging and Writing
 
