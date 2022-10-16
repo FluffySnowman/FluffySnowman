@@ -15,4 +15,4 @@ Apart from coding, I also do a bit of writing here or there. Here are some of my
 
 ## Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffySnowman)](https://github.com/anuraghazra/github-readme-stats) ![Fluffy's GitHub stats](https://github-readme-stats.vercel.app/api?username=FLuffySnowman&show_icons=true&theme=radical)
+![Fluffy's GitHub stats](https://github-readme-stats.vercel.app/api?username=FLuffySnowman&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FluffySnowman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
