@@ -1,6 +1,6 @@
 # Hello there
 
-Hello there! My name is Fluffy and I'm a Cyber Security Analyst, Network Administator Random Programmer and more. You can find me on <a href="https://twitter.com/FluffySnowmanYT" target="_blank">Twitter</a> and on Discord: `FluffySnowman#1337`.
+Hello there! My name is Fluffy and I'm a Cyber Security Analyst, Network Administator Random Programmer and more. You can find me on <a href="https://twitter.com/FluffySnowmanYT" target="_blank">Twitter</a> , <a rel="me" href="https://mastodon.social/@FluffySnowman">Mastodon</a> on Discord: `FluffySnowman#1337`.
 
 ## Skills, Technologies and Tools
 
