@@ -6,6 +6,8 @@ Hello there! My name is Fluffy and I'm a Cyber Security Analyst, Network Adminis
 
 Parrot OS/Kali Linux, Arch Linux, and Debian based user, Network Management, White hat Hacking, Python3, Bash Scripting (.sh), Nodejs Bots, HTML+CSS+JS, GIT, SQL, Java, Assembly, Cryptography, Cyber Security, Network Administration and more.
 
+Feel free to check out my latest project [Fastmap](https://github.com/FluffySnowman/fastmap) or my [testinglab](https://github.com/FluffySnowman/testinglab)
+
 ## Blogging and Writing
 
 Apart from coding, I also do a bit of writing here or there. Here are some of my recent blogs: 
