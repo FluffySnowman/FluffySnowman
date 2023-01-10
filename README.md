@@ -2,6 +2,8 @@
 
 Hello there! Name's Fluffy and I'm a Cyber Security Analyst, Network Administator Random Programmer and more. You can find me on <a rel="me" href="https://t.me/FluffySnowman">Telegram</a> or on Discord: `FluffySnowman#1337`.
 
+## [UPDATE]: My new updated site: [fluffysnowman.dev](https://fluffysnowman.dev). Make sure to check out the terminal based `about` page
+
 ## Skills, Technologies and Tools
 
 Parrot OS/Kali Linux, Arch Linux, and Debian based user, Network Management, White hat Hacking, Python3, Bash Scripting (.sh), Nodejs Bots, HTML+CSS+JS, GIT, SQL, Java, Assembly, Cryptography, Cyber Security, Network Administration and more.
