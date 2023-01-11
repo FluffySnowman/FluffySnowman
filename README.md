@@ -15,7 +15,7 @@ Feel free to check out my latest project [Fastmap](https://github.com/FluffySnow
 Apart from coding, I also do a bit of writing here or there. Here are some of my recent blogs: 
 
 - [A Blog of Things (anything computer related + photography)](https://fluffysnowman.github.io)
-- [The Point is there ain't No Point (A blog about mental illness and how to deal with it + some interesting experiences)](https://thatoneschizo.blogspot.com)
+<!-- - [The Point is there ain't No Point (A blog about mental illness and how to deal with it + some interesting experiences)](https://thatoneschizo.blogspot.com) -->
 
 ## Github Stats
 
