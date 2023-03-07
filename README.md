@@ -20,7 +20,9 @@ Apart from coding, I also do a bit of writing here or there. Here are some of my
 <!-- - [The Point is there ain't No Point (A blog about mental illness and how to deal with it + some interesting experiences)](https://thatoneschizo.blogspot.com) -->
 
 
+## Skills (Icons)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,bash,nodejs,git,java,go,postman,powershell,ableton,discord,electron,gitlab,linux,neovim,vim,vscode)](https://skillicons.dev)
 
 
 
