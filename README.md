@@ -10,6 +10,8 @@ Parrot OS/Kali Linux, Arch Based Linux, Debian based, and Windows user, Network 
 
 Feel free to check out my latest project [Fastmap](https://github.com/FluffySnowman/fastmap) or my [testinglab](https://github.com/FluffySnowman/testinglab)
 
+#### I'm working on a new program/app, built in `go` which will be a GUI based version of my project [Fastmap](https://github.com/FluffySnowman/fastmap)
+
 ## Sites
 
 Apart from coding, I also do a bit of writing here or there. Here are some of my recent blogs/websites ->
