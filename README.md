@@ -9,8 +9,7 @@ Hello there! Name's Fluffy and I'm a Cyber Security Analyst, Network Administato
 Parrot OS/Kali Linux, Arch Based Linux, Debian based, and Windows user, Network Management, White hat Hacking, Python3, Bash Scripting (.sh), Nodejs Bots, HTML+CSS+JS, GIT, SQL, Java, Assembly, GO (just started learning), Cryptography (not as much anymore), Cyber Security, Network Administration and more.
 
 Feel free to check out my latest project [Fastmap](https://github.com/FluffySnowman/fastmap) or my [testinglab](https://github.com/FluffySnowman/testinglab)
-
-#### I'm working on a new program/app, built in `go` which will be a GUI based version of my project [Fastmap](https://github.com/FluffySnowman/fastmap)
+### I'm working on a new program/app, built in `go` which will be a GUI based version of my project [Fastmap](https://github.com/FluffySnowman/fastmap)
 
 ## Sites
 
