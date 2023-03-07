@@ -6,15 +6,16 @@ Hello there! Name's Fluffy and I'm a Cyber Security Analyst, Network Administato
 
 ## Skills, Technologies and Tools
 
-Parrot OS/Kali Linux, Arch Linux, and Debian based user, Network Management, White hat Hacking, Python3, Bash Scripting (.sh), Nodejs Bots, HTML+CSS+JS, GIT, SQL, Java, Assembly, Cryptography, Cyber Security, Network Administration and more.
+Parrot OS/Kali Linux, Arch Based Linux, Debian based, and Windows user, Network Management, White hat Hacking, Python3, Bash Scripting (.sh), Nodejs Bots, HTML+CSS+JS, GIT, SQL, Java, Assembly, GO (just started learning), Cryptography (not as much anymore), Cyber Security, Network Administration and more.
 
 Feel free to check out my latest project [Fastmap](https://github.com/FluffySnowman/fastmap) or my [testinglab](https://github.com/FluffySnowman/testinglab)
 
-## Blogging and Writing
+## Sites
 
-Apart from coding, I also do a bit of writing here or there. Here are some of my recent blogs: 
+Apart from coding, I also do a bit of writing here or there. Here are some of my recent blogs/websites ->
 
 - [A Blog of Things (anything computer related + photography)](https://fluffysnowman.github.io)
+- [Personal Experimental Site](https://fluffysnowman.dev)
 <!-- - [The Point is there ain't No Point (A blog about mental illness and how to deal with it + some interesting experiences)](https://thatoneschizo.blogspot.com) -->
 
 ## Github Stats
