@@ -2,7 +2,7 @@
 
 Hello there! Name's Fluffy and I'm a Cyber Security Analyst, Network Administator Random Programmer and more. You can find me on <a target="_blank" rel="me" href="https://t.me/FluffySnowman">Telegram</a> or on Discord: `FluffySnowman#1337`.
 
-## [UPDATE]: My new WIP site: [fluffysnowman.dev](https://fluffysnowman.dev). Make sure to check out the terminal based `about` page
+#### [UPDATE]: My new WIP site: [fluffysnowman.dev](https://fluffysnowman.dev). Make sure to check out the terminal based `about` page
 
 ## Skills, Technologies and Tools
 
