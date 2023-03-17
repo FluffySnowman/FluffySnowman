@@ -19,7 +19,7 @@ Apart from coding, I also do a bit of writing here or there. Here are some of my
 - [A Personal Experimental Site](https://fluffysnowman.dev)
 <!-- - [The Point is there ain't No Point (A blog about mental illness and how to deal with it + some interesting experiences)](https://thatoneschizo.blogspot.com) -->
 
-<img src="https://komarev.com/ghpvc/?username=FluffySnowman" alt="Profile Views" height="40" width="160">
+<img src="https://komarev.com/ghpvc/?username=FluffySnowman" alt="Profile Views" height="32" width="160">
 
 ## Skills (Icons)
 
