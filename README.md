@@ -22,8 +22,7 @@ Apart from coding, I also do a bit of writing here or there. Here are some of my
 
 ## Skills (Icons)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,bash,nodejs,git,java,go,postman,powershell,ableton,discord,electron,gitlab,linux,neovim,vim,vscode)](https://skillicons.dev) ![](https://komarev.com/ghpvc/?username=FluffySnowman) 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,bash,nodejs,git,java,go,postman,powershell,ableton,discord,electron,gitlab,linux,neovim,vim,vscode)](https://skillicons.dev) ![](https://komarev.com/ghpvc/?username=FluffySnowman)
 
 
 
