@@ -19,14 +19,14 @@ Apart from coding, I also do a bit of writing here or there. Here are some of my
 - [A Personal Experimental Site](https://fluffysnowman.dev)
 <!-- - [The Point is there ain't No Point (A blog about mental illness and how to deal with it + some interesting experiences)](https://thatoneschizo.blogspot.com) -->
 
+<img src="https://komarev.com/ghpvc/?username=FluffySnowman" alt="Profile Views" height="20" width="100">
 
 ## Skills (Icons)
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,bash,nodejs,git,java,go,postman,powershell,ableton,discord,electron,gitlab,linux,neovim,vim,vscode&perline=7" alt="My Skills" width="70%">
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,bash,nodejs,git,java,go,postman,powershell,ableton,discord,electron,gitlab,linux,neovim,vim,vscode" alt="My Skills" width="100%">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=FluffySnowman" alt="Profile Views" height="20">
 </div>
 
 
