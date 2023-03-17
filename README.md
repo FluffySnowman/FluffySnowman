@@ -24,7 +24,7 @@ Apart from coding, I also do a bit of writing here or there. Here are some of my
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,bash,nodejs,git,java,go,postman,powershell,ableton,discord,electron,gitlab,linux,neovim,vim,vscode" alt="My Skills" width="100">
+    <img src="https://skillicons.dev/icons?i=js,html,css,py,bash,nodejs,git,java,go,postman,powershell,ableton,discord,electron,gitlab,linux,neovim,vim,vscode" alt="My Skills" width="90%">
   </a>
   <img src="https://komarev.com/ghpvc/?username=FluffySnowman" alt="Profile Views" height="20">
 </div>
