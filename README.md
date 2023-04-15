@@ -25,7 +25,7 @@ Apart from coding, I also do a bit of writing here or there. Here are some of my
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,vue,py,bash,nodejs,git,java,go,postman,powershell,ableton,discord,electron,gitlab,linux,neovim,vim,vscode" alt="My Skills" width="100%">
+    <img src="https://skillicons.dev/icons?i=js,html,css,vue,express,py,bash,nodejs,git,java,go,postman,powershell,ableton,discord,electron,gitlab,linux,neovim,vim,vscode" alt="My Skills" width="100%">
   </a>
 </div>
 
