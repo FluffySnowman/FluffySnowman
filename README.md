@@ -4,7 +4,7 @@ Name's Fluffy and I do things with computers. You can find me on <a target="_bla
 
 ### [UPDATES] -> 
 - [thed0xmachine](https://github.com/FluffySnowman/thed0xmachine) is a project that I'm gonna be working on in the future. Use this wisely 👀 🖥️
-- My new WIP site: [fluffysnowman.dev](https://fluffysnowman.dev). Make sure to check out the terminal based `about` page.
+- <b>[RECENT UPDATE]</b> My new WIP site: [fluffysnowman.dev](https://fluffysnowman.dev). Make sure to check out the terminal based `about` page.
 
 ## Skills, Technologies and Tools
 
