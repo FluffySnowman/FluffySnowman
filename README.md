@@ -1,6 +1,6 @@
 # Hello there
 
-Name's Fluffy and I do things with computers. You can find me on <a target="_blank" rel="me" href="https://t.me/FluffySnowman">Telegram</a> or on Discord:`@fluffysnowman` || `FluffySnowman#1337` [old].
+Name's Fluffy and I do things with computers. You can find me on <a target="_blank" rel="me" href="https://t.me/FluffySnowman">Telegram</a> or on Discord:`@fluffysnowman` or `FluffySnowman#1337` [OLD].
 
 ### [UPDATES] -> 
 - [thed0xmachine](https://github.com/FluffySnowman/thed0xmachine) is a project that I'm gonna be working on in the future. Use this wisely 👀 🖥️
