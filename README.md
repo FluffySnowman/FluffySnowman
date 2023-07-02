@@ -3,6 +3,7 @@
 Name's Fluffy and I do things with computers. You can find me on <a target="_blank" rel="me" href="https://t.me/FluffySnowman">Telegram</a> or on Discord:`@fluffysnowman` or `FluffySnowman#1337` [OLD].
 
 ### [UPDATES] -> 
+- I made a [Meme API](https://memeapi.dev) because why not 
 - [thed0xmachine](https://github.com/FluffySnowman/thed0xmachine) is a project that I'm gonna be working on in the future. Use this wisely 👀 🖥️
 - <b>[RECENT UPDATE]</b> My new **professional skidiot** site: [fluffysnowman.dev](https://fluffysnowman.dev). Make sure to check out the terminal based `about` page.
 
