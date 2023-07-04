@@ -22,7 +22,7 @@ My latest project [Fastmap](https://github.com/FluffySnowman/fastmap) had to be 
 Here are some of my recent blogs/websites ->
 
 - [A Blog of Things (anything computer related + photography)](https://fluffysnowman.github.io) 
-- [A Personal Experimental Site](https://fluffysnowman.dev)
+- [Professional Skid Site](https://fluffysnowman.dev)
 - [A Meme API](https://memeapi.dev)
 
 <img src="https://komarev.com/ghpvc/?username=FluffySnowman" alt="Profile Views" height="20">
@@ -31,7 +31,7 @@ Here are some of my recent blogs/websites ->
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,vue,express,mongodb,py,bash,nodejs,git,java,go,postman,powershell,ableton,discord,electron,gitlab,linux,neovim,vim,vscode,apollo,atom,azure,graphql,raspberrypi,react,kubernetes,docker" alt="My Skills" width="100%">
+    <img src="https://skillicons.dev/icons?i=js,html,css,vue,express,mongodb,py,bash,nodejs,git,java,insomnia,postman,powershell,ableton,discord,electron,gitlab,linux,neovim,vim,vscode,apollo,atom,azure,graphql,raspberrypi,react,kubernetes,docker" alt="My Skills" width="100%">
   </a>
 </div>
 
