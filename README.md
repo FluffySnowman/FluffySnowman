@@ -15,8 +15,6 @@ I forgot to mention- **I use arch by the way**
 
 My latest project [Fastmap](https://github.com/FluffySnowman/fastmap) had to be re-created as a new repository since I messed up all the commits and branches
 
-#### I'm also working on a new program/app, built in `go` which will be a GUI based version of my project [Fastmap](https://github.com/FluffySnowman/fastmap)
-
 ## Sites
 
 Here are some of my recent blogs/websites ->
