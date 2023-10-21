@@ -3,21 +3,26 @@
 Name's Fluffy and I do things with computers. You can find me on <a target="_blank" rel="me" href="https://t.me/FluffySnowman">Telegram</a> or on Discord:`@fluffysnowman` or `FluffySnowman#1337`
 
 ### [UPDATES] -> 
-- <b>[RECENT UPDATE]</b> [VORTEXUS](https://github.com/fluffysnowman/vortexus) is a tool that can be used to create working projects in minutes  
+- New documentation website [snowdocs.dev](https://snowdocs.dev) which is a revamp of my [old blog](https://fluffysnowman.github.io) 
+- [Vortexus](https://github.com/fluffysnowman/vortexus) is a tool that can be used to create working projects in minutes  
+- My **professional skidiot** site: [fluffysnowman.dev](https://fluffysnowman.dev). Make sure to check out the terminal based `about` page.
 - I made a [Meme API](https://memeapi.dev) because why not 
 - [thed0xmachine](https://github.com/FluffySnowman/thed0xmachine) is a project that I'm gonna be working on in the future. Use this wisely 👀 🖥️
-- My **professional skidiot** site: [fluffysnowman.dev](https://fluffysnowman.dev). Make sure to check out the terminal based `about` page.
+
 
 ## Experience
 
-Python3, Bash Scripting (.sh), Nodejs, Express.js, Vue.js, Discord Bots (v5-v7), HTML+CSS+JS,GIT, SQL, Java, Assembly, GO, <strike>Cryptography (not as much anymore)</strike>, Cyber Security, Network Administration, System/Server Administration, Debian and Arch based linux user and alot more.
+Go, Python, Bash(.sh), Nodejs (Express.js, Vue.js/Nuxt.js, Discord.js/Discord.py, React, React Native, System/server administration, Network Administration, Cyber Security, SQL, CQL, Mongodb, Java, Linux (debian-based, arch-based, RHEL), Web development (html,css,js), Git (obviously), docker, kubernetes, GraphQL, and alot more. 
 
 I forgot to mention- **I use arch by the way**
+
+(and I use vim)
 
 ## Sites
 
 Here are some of my recent blogs/websites ->
 
+- [Revamp of the blog below](https://snowdocs.dev)
 - [A Blog of Things (anything computer related + photography)](https://fluffysnowman.github.io) 
 - [Professional Skid Site](https://fluffysnowman.dev)
 - [A Meme API](https://memeapi.dev)
