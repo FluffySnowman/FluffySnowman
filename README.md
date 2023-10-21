@@ -3,7 +3,7 @@
 Name's Fluffy and I do things with computers. You can find me on <a target="_blank" rel="me" href="https://t.me/FluffySnowman">Telegram</a> or on Discord:`@fluffysnowman` or `FluffySnowman#1337`
 
 ### [UPDATES] -> 
-- New documentation website [snowdocs.dev](https://snowdocs.dev) which is a revamp of my [old blog](https://fluffysnowman.github.io) 
+- New documentation website [snowdocs.dev](https://snowdocs.dev) which is a revamp of my old blog (which has now been deleted)
 - [Vortexus](https://github.com/fluffysnowman/vortexus) is a tool that can be used to create working projects in minutes  
 - My **professional skidiot** site: [fluffysnowman.dev](https://fluffysnowman.dev). Make sure to check out the terminal based `about` page.
 - I made a [Meme API](https://memeapi.dev) because why not 
@@ -23,7 +23,7 @@ I forgot to mention- **I use arch by the way**
 Here are some of my recent blogs/websites ->
 
 - [Revamp of the blog below](https://snowdocs.dev)
-- [A Blog of Things (anything computer related + photography)](https://fluffysnowman.github.io) 
+- [**NOW DELETED**] [A Blog of Things (anything computer related + photography)](https://fluffysnowman.github.io) 
 - [Professional Skid Site](https://fluffysnowman.dev)
 - [A Meme API](https://memeapi.dev)
 
