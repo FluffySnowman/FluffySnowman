@@ -12,11 +12,11 @@ Name's Fluffy and I do things with computers. You can find me on <a target="_bla
 
 ## Experience
 
-Go, Python, Bash(.sh), Nodejs (Express.js, Vue.js/Nuxt.js, Discord.js/Discord.py, React, React Native, System/server administration, Network Administration, Cyber Security, SQL, CQL, Mongodb, Java, Linux (debian-based, arch-based, RHEL), Web development (html,css,js), Git (obviously), docker, kubernetes, GraphQL, and alot more. 
+Go, Python, Bash(.sh), Nodejs (Express.js, Vue.js/Nuxt.js, Discord.js/Discord.py, React, React Native), System/Server administration, Network Administration, Cyber Security, SQL, CQL, Mongodb, Java, Linux (debian-based, arch-based, RHEL), Web development (html,css,js), Git (obviously), docker, kubernetes, GraphQL, and alot more. 
 
 I forgot to mention- **I use arch by the way**
 
-(and I use vim)
+**__(and I use vim)__**
 
 ## Sites
 
