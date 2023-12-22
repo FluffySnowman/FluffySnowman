@@ -3,6 +3,7 @@
 Name's Fluffy and I do things with computers. You can find me on <a target="_blank" rel="me" href="https://t.me/FluffySnowman">Telegram</a> or on Discord:`@fluffysnowman` or `FluffySnowman#1337`
 
 ### [UPDATES] -> 
+- I'm making a database from scratch (first in C, then Go and now Rust) which has features that no other database has. Currently closed source but it will be open source once its ready for production use.
 - New documentation website [snowdocs.dev](https://snowdocs.dev) which is a revamp of my old blog (which has now been deleted)
 - [Vortexus](https://github.com/fluffysnowman/vortexus) is a tool that can be used to create working projects in minutes  
 - My **professional skidiot** site: [fluffysnowman.dev](https://fluffysnowman.dev). Make sure to check out the terminal based `about` page.
@@ -23,7 +24,6 @@ I forgot to mention- **I use arch by the way**
 Here are some of my recent blogs/websites ->
 
 - [Revamp of the blog below](https://snowdocs.dev)
-- [**NOW DELETED**] [A Blog of Things (anything computer related + photography)](https://fluffysnowman.github.io) 
 - [Professional Skid Site](https://fluffysnowman.dev)
 - [A Meme API](https://memeapi.dev)
 
@@ -33,7 +33,7 @@ Here are some of my recent blogs/websites ->
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,vue,express,mongodb,py,bash,nodejs,git,java,bots,postman,powershell,ableton,discord,electron,gitlab,linux,neovim,vscode,apollo,atom,azure,graphql,raspberrypi,react,go,kubernetes,docker" alt="My Skills" width="100%">
+    <img src="https://skillicons.dev/icons?i=js,html,css,vue,express,mongodb,py,bash,nodejs,git,java,bots,postman,powershell,ableton,discord,electron,gitlab,linux,neovim,vscode,apollo,atom,azure,graphql,raspberrypi,react,go,kubernetes,docker,elixir,rust,jenkins,ansible,firebase,gcp,raspberrypi,vim,c,cloudflare,cassandra" alt="My Skills" width="100%">
   </a>
 </div>
 
