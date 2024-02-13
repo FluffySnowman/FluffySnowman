@@ -3,6 +3,7 @@
 Name's Fluffy and I do things with computers. You can find me on <a target="_blank" rel="me" href="https://t.me/FluffySnowman">Telegram</a> or on Discord:`@fluffysnowman` or `FluffySnowman#1337`
 
 ### [UPDATES] -> 
+- (Snowpass)[https://github.com/FluffySnowman/SnowPass] is a fully featured, cross-platform, CLI password manager.
 - I'm making a database from scratch (first in C, then Go and now Rust) which has features that no other database has. Currently closed source but it will be open source once its ready for production use.
 - New documentation website [snowdocs.dev](https://snowdocs.dev) which is a revamp of my old blog which is a revamp of the older one and a revamp of that and so on... (which has now been deleted)
 - [Vortexus](https://github.com/fluffysnowman/vortexus) is a tool that can be used to create working projects in minutes  
