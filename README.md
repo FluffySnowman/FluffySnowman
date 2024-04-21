@@ -33,7 +33,7 @@ Name's Fluffy and I do things with computers. You can find me on <a target="_bla
 
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,vue,express,mongodb,py,bash,nodejs,git,java,bots,postman,powershell,ableton,discord,electron,gitlab,linux,redhat,arch,ubuntu,apple,neovim,lua,vscode,apollo,atom,azure,gcp,graphql,raspberrypi,react,bun,go,kubernetes,docker,elixir,rust,zig,jenkins,ansible,firebase,gcp,raspberrypi,vim,c,cloudflare,elasticseacrh,postgres,redis,sqlite,cassandra,vite,vercel,svelte,nuxtjs,cypress,discordjs," alt="My Skills" width="100%">
+    <img src="https://skillicons.dev/icons?i=js,html,css,vue,express,mongodb,py,bash,nodejs,git,java,bots,postman,powershell,ableton,discord,electron,gitlab,linux,redhat,arch,ubuntu,apple,neovim,lua,vscode,apollo,atom,azure,gcp,graphql,raspberrypi,react,bun,go,kubernetes,docker,elixir,rust,zig,jenkins,ansible,firebase,gcp,raspberrypi,vim,c,cloudflare,elasticsearch,mysql,postgres,redis,sqlite,cassandra,vite,vercel,svelte,nuxtjs,cypress,discordjs," alt="My Skills" width="100%">
   </a>
 </div>
 
