@@ -2,18 +2,23 @@
 
 Name's Fluffy and I do things with computers. You can find me on <a target="_blank" rel="me" href="https://t.me/FluffySnowman">Telegram</a> or on Discord:`@fluffysnowman` or `FluffySnowman#1337`
 
-### [UPDATES] -> 
-- Currently working on a self-hostable networking tool in Go, with join notifications, statistics, report generation, security alerts and much more.
+### [Recent Projects] -> 
+- [AutoVirt](https://github.com/FluffuSnowman/autovirt) - Virtual Machine (Qemu) automation tool built in rust.
 
-- [Snowpass](https://github.com/FluffySnowman/SnowPass) is a fully featured, cross-platform, CLI password manager.
+- Building a linux compatible, performant (hopefully) and modern OS/Kernel from scratch in Zig/C.
 
-- I'm making a database from scratch (first in C, then Go, then Rust, and now Zig) which has features that no other database has. Will be made public once its actually usable.
+- [Snowpass](https://github.com/FluffySnowman/SnowPass) - Fully featured, cross-platform, CLI password manager.
 
 - New documentation website [snowdocs.dev](https://snowdocs.dev) which is a revamp of my old blog which is a revamp of the older one and a revamp of that and so on... (which has now been deleted)
 
 - [Vortexus](https://github.com/fluffysnowman/vortexus) is a tool that can be used to create working projects in minutes
 
 - [thed0xmachine](https://github.com/FluffySnowman/thed0xmachine) is a project that I'm gonna be working on in the future. Use this wisely 👀 🖥️
+
+Incomplete/Not currently public projects:
+
+- Making a database from scratch (first in C, then Go, then Rust, and now Zig) which has features that no other database has. Will be made public once its actually usable.
+- Currently working on a self-hostable networking tool in Go, with join notifications, statistics, report generation, security alerts and much more.
 
 ## Sites
 
