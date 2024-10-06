@@ -2,14 +2,18 @@
 
 Name's Fluffy and I do things with computers. You can find me on <a target="_blank" rel="me" href="https://t.me/FluffySnowman">Telegram</a> or on Discord:`@fluffysnowman` or `FluffySnowman#1337`
 
-### [Recent Projects] -> 
+### [Cool/Recent Projects] -> 
 - [AutoVirt](https://github.com/FluffySnowman/autovirt) - Virtual Machine (Qemu) automation tool built in rust.
 
-- Building a linux compatible, performant (hopefully) and modern OS/Kernel from scratch in Zig/C.
+- [PrettyLogger](https://github.com/fluffysnowman/prettylogger) - Simple pretty logger built in go.
 
 - [Snowpass](https://github.com/FluffySnowman/SnowPass) - Fully featured, cross-platform, CLI password manager.
 
-- New documentation website [snowdocs.dev](https://snowdocs.dev) which is a revamp of my old blog which is a revamp of the older one and a revamp of that and so on... (which has now been deleted)
+- [lo](https://github.com/FluffySnowman/lo) - Better `ls` command built in go (no documentation since its just for me)
+
+- Currently building a linux compatible, performant (hopefully) and modern OS/Kernel from scratch in Zig/C which will be made public once its actually useable. 
+
+- Documentation website [snowdocs.dev](https://snowdocs.dev) which is a revamp of my old blog which is a revamp of the older one and a revamp of that and so on... (which has now been deleted)
 
 - [Vortexus](https://github.com/fluffysnowman/vortexus) is a tool that can be used to create working projects in minutes
 
@@ -17,8 +21,8 @@ Name's Fluffy and I do things with computers. You can find me on <a target="_bla
 
 Incomplete/Not currently public projects:
 
-- Making a database from scratch (first in C, then Go, then Rust, and now Zig) which has features that no other database has. Will be made public once its actually usable.
-- Currently working on a self-hostable networking tool in Go, with join notifications, statistics, report generation, security alerts and much more.
+- Making a database from scratch (first in C, then Go, then Rust, and now Zig, and now rust again) which has features that no other database has. Will be made public once its actually usable.
+- Working on a self-hostable networking tool in Go, with join notifications, statistics, report generation, security alerts and much more.
 
 ## Sites
 
