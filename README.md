@@ -2,7 +2,7 @@
 
 Name's Fluffy and I do things with computers. You can find me on <a target="_blank" rel="me" href="https://t.me/FluffySnowman">Telegram</a> or on Discord:`@fluffysnowman` or `FluffySnowman#1337`
 
-### [Cool/Recent Projects] -> 
+## Cool/Recent Projects -> 
 - [AutoVirt](https://github.com/FluffySnowman/autovirt) - Virtual Machine (Qemu) automation tool built in rust.
 
 - [PrettyLogger](https://github.com/fluffysnowman/prettylogger) - Simple pretty logger built in go.
