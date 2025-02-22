@@ -4,6 +4,7 @@ Name's Fluffy and I do things with computers. You can find me on <a target="_bla
 
 ## Cool/Recent Projects -> 
 - [AutoVirt](https://github.com/FluffySnowman/autovirt) - Virtual Machine (Qemu) automation tool built in rust.
+- [FluffyProxy](https://github.com/FluffySnowman/fluffyproxy) - Reverse proxy to help expose a local service to the internet behing NAT or a firewall. 
 - [PrettyLogger](https://github.com/fluffysnowman/prettylogger) - Simple pretty logger built in go.
 - [Snowpass](https://github.com/FluffySnowman/SnowPass) - Fully featured, cross-platform, CLI password manager.
 - [htp](https://github.com/FluffySnowman/htp) - Simple and practical http client written in python.
