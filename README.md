@@ -22,8 +22,8 @@ Senior keyboard smasher, /dev/null explorer. <a target="_blank" rel="me" href="h
 
 ## Sites
 
-- [Documentation Project](https://snowdocs.dev)
 - [Professional Skid Site](https://fluffysnowman.dev)
+- [Documentation Project](https://snowdocs.dev)
 - [Incomplete](https://fs1337.dev)
 - [A Meme API](https://memeapi.dev)
 
