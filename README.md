@@ -8,12 +8,12 @@ Senior keyboard smasher, /dev/null explorer. <a target="_blank" rel="me" href="h
 - [Snowpass](https://github.com/FluffySnowman/SnowPass) - Fully featured, cross-platform, CLI password manager.
 - [Mo](https://github.com/FluffySnowman/mo) - S3 compatible object storage manager (alternative to s3cmd, aws cli, etc)
 - [htp](https://github.com/FluffySnowman/htp) - Simple and practical http client to aid with monotonous workflows; written in Python.
+- [eLog](https://github.com/FluffySnowman/elog) - Single header-only logging library for C.
 - [PrettyLogger](https://github.com/fluffysnowman/prettylogger) - Simple pretty logger built in go.
 - [lo](https://github.com/FluffySnowman/lo) - Better `ls` command built in go (no documentation since its just for me)
-- Currently building a linux compatible, performant (hopefully) and modern OS/Kernel from scratch in Zig/C which will be made public once its actually useable. 
+- Currently(not really) building a linux compatible, performant (hopefully) and modern OS/Kernel from scratch in Zig/C which will be made public once its actually useable. 
 - Documentation website [snowdocs.dev](https://snowdocs.dev) which is a revamp of my old blog which is a revamp of the older one and a revamp of that and so on... (which has now been deleted)
-- [Vortexus](https://github.com/fluffysnowman/vortexus) is a tool that can be used to create working projects in minutes
-- [thed0xmachine](https://github.com/FluffySnowman/thed0xmachine) is a project that I'm gonna be working on in the future. Use this wisely 👀 🖥️
+- [Vortexus](https://github.com/fluffysnowman/vortexus) is a tool that can be used to create working projects in minutes (this project is now a graveyard)
 
 ###  Incomplete/Not currently public projects:
 
