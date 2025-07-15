@@ -1,13 +1,14 @@
 # Hello there
 
-Name's Fluffy and I do things with computers. You can find me on <a target="_blank" rel="me" href="https://t.me/FluffySnowman">Telegram</a> or on Discord:`@fluffysnowman` or `FluffySnowman#1337`
+Senior keyboard smasher, /dev/null explorer. <a target="_blank" rel="me" href="https://t.me/FluffySnowman">Telegram</a> or on Discord:`@fluffysnowman` or `FluffySnowman#1337`
 
 ## Cool/Recent Projects -> 
 - [AutoVirt](https://github.com/FluffySnowman/autovirt) - Virtual Machine (Qemu) automation tool built in rust.
 - [FluffyProxy](https://github.com/FluffySnowman/fluffyproxy) - Reverse proxy to help expose a local service to the internet behing NAT or a firewall. 
-- [PrettyLogger](https://github.com/fluffysnowman/prettylogger) - Simple pretty logger built in go.
 - [Snowpass](https://github.com/FluffySnowman/SnowPass) - Fully featured, cross-platform, CLI password manager.
+- [Mo](https://github.com/FluffySnowman/mo) - S3 compatible object storage manager (alternative to s3cmd, aws cli, etc)
 - [htp](https://github.com/FluffySnowman/htp) - Simple and practical http client written in python.
+- [PrettyLogger](https://github.com/fluffysnowman/prettylogger) - Simple pretty logger built in go.
 - [lo](https://github.com/FluffySnowman/lo) - Better `ls` command built in go (no documentation since its just for me)
 - Currently building a linux compatible, performant (hopefully) and modern OS/Kernel from scratch in Zig/C which will be made public once its actually useable. 
 - Documentation website [snowdocs.dev](https://snowdocs.dev) which is a revamp of my old blog which is a revamp of the older one and a revamp of that and so on... (which has now been deleted)
