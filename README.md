@@ -15,7 +15,7 @@ Senior keyboard smasher, /dev/null explorer. <a target="_blank" rel="me" href="h
 - Documentation website [snowdocs.dev](https://snowdocs.dev) which is a revamp of my old blog which is a revamp of the older one and a revamp of that and so on... (which has now been deleted)
 - [Vortexus](https://github.com/fluffysnowman/vortexus) is a tool that can be used to create working projects in minutes (this project is now a graveyard)
 
-###  Incomplete/Not currently public projects:
+###  Incomplete/Not currently public projects (UPD: current status: graveyard repos):
 
 - Making a database from scratch (first in C, then Go, then Rust, and now Zig, and now rust again) which has features that no other database has. Will be made public once its actually usable.
 - Working on a self-hostable networking tool in Go, with join notifications, statistics, report generation, security alerts and much more.
