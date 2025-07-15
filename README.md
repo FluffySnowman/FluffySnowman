@@ -7,7 +7,7 @@ Senior keyboard smasher, /dev/null explorer. <a target="_blank" rel="me" href="h
 - [FluffyProxy](https://github.com/FluffySnowman/fluffyproxy) - Reverse proxy to help expose a local service to the internet behing NAT or a firewall. 
 - [Snowpass](https://github.com/FluffySnowman/SnowPass) - Fully featured, cross-platform, CLI password manager.
 - [Mo](https://github.com/FluffySnowman/mo) - S3 compatible object storage manager (alternative to s3cmd, aws cli, etc)
-- [htp](https://github.com/FluffySnowman/htp) - Simple and practical http client written in python.
+- [htp](https://github.com/FluffySnowman/htp) - Simple and practical http client to aid with monotonous workflows; written in Python.
 - [PrettyLogger](https://github.com/fluffysnowman/prettylogger) - Simple pretty logger built in go.
 - [lo](https://github.com/FluffySnowman/lo) - Better `ls` command built in go (no documentation since its just for me)
 - Currently building a linux compatible, performant (hopefully) and modern OS/Kernel from scratch in Zig/C which will be made public once its actually useable. 
